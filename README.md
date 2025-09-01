@@ -3,7 +3,7 @@
 A simple, responsive personal website built with **HTML** and **CSS only**, based on a design from **Elzero Web School**.
 
 🔗 **Live Demo:**  
-[https://brahimdjelid.github.io/My_World_Template/](https://brahimdjelid.github.io/My_World_Template/)
+[https://brahimdjelid.github.io/my-world-template/]
 
 ---
 
